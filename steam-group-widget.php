@@ -29,7 +29,7 @@ class otletsg_widget extends WP_Widget {
 			$adress = $instance[ 'adress' ];
 		}
 		else {
-			$adress = __( 'http://steamcommunity.com/groups/ts23games', 'otletsg_widget_domain' );
+			$adress = __( 'http://example.com', 'otletsg_widget_domain' );
 		}
 	?>
 	<p>
